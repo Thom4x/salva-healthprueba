@@ -158,6 +158,9 @@ pip install -r requirements.txt
 ```
 
 3. Ejecutar los notebooks en orden:
+   
+NOTA: Antes de ejecutar, eliminen los .csv de las carpetas data/clean-data y data/model-data, para que puedan realizar el flujo completo de generacion
+del archivo .csv con el procesamiento en envidencia.
 
 1. calidad_datos.ipynb
 2. limpieza_datos.ipynb
