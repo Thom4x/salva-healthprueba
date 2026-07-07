@@ -1,4 +1,4 @@
-# ECG Classification Baseline
+# ECG SalvaHealth
 
 ## Descripción
 
@@ -51,11 +51,11 @@ El proyecto se desarrolló siguiendo las siguientes etapas:
 1. Exploración inicial del dataset.
 2. Identificación de problemas de calidad.
 3. Limpieza y preparación de los datos.
-4. Versionamiento del dataset.
-5. Consumo remoto desde Azure Blob Storage.
-6. Análisis exploratorio de datos (EDA).
+4. Análisis exploratorio de datos (EDA).
+5. Entrenamiento y evaluación de un modelo baseline.
+6. Consumo remoto desde Azure Blob Storage.
 7. Ingeniería de características (propuesta).
-8. Entrenamiento y evaluación de un modelo baseline.
+
 
 ---
 
@@ -129,9 +129,6 @@ Durante el desarrollo se utilizó **ChatGPT (OpenAI)** como herramienta de apoyo
 - mejora de la documentación;
 - revisión de código y buenas prácticas.
 
-Todas las decisiones técnicas, implementaciones y validaciones fueron revisadas y adaptadas manualmente antes de incorporarse al proyecto.
-Al final, el rigor y criterio lo tiene siempre mi persona al momento de ejecutar y tomar las mejores deciciones
-No sobra decir que tuve que consultar documentacion y referencias externas sobre temas medicos para un mejor entendimiento de los datos y poder tomar decisiones mas acertadas sobre el tratamiento de los mismos.
 ---
 
 ## Variables de entorno
